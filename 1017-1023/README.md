@@ -31,7 +31,7 @@ sort()와 parseInt()를 이용하면 음수까지 오름차순으로 정렬이 �
 # 민호님
 
 - 문제 주소 및 접근방법
-  - []()
+  - [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 
 ```text
 
